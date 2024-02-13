@@ -1,7 +1,6 @@
 /* GENERAL */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');  
 
 * {
     margin: 0;
@@ -441,4 +440,7 @@ footer p{
 }
 
 
-
+/* For repsonsiveness on smaller devices like Himanshi's Macbook 13 inch */
+section {
+    min-height: 800px;
+  }
