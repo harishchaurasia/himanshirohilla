@@ -442,5 +442,5 @@ footer p{
 
 /* For repsonsiveness on smaller devices like Himanshi's Macbook 13 inch */
 section {
-    min-height: 1200px;
+    min-height: 800px;
   }
